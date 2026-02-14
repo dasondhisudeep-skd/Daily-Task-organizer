@@ -1,6 +1,5 @@
-# Daily-Task-organizer
-Daily Task Organizer Python Project
 # Daily Task Organizer – Project 01
+Daily Task Organizer Python Project
 
 ## ✅ What this project does
 
